@@ -14,3 +14,6 @@ de busqueda de una solución para el problema,
 devolvinendose en caso de encontrar soluciones sin
 salida.
 La ultima matriz que imprime es el tablero solución.
+
+En la matriz las X son las reinas y los 0 son las
+casillas vacías.
